@@ -1,0 +1,376 @@
+﻿<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0"> 
+    <channel> 
+        <title>KRNX - The Relationship Marketing Podcast</title> 
+        <link>http://ReferralNetworX.com</link> 
+        <description>ReferralNetworX.com's relationship marketing podcast. Learn how to generate referrals for your business and find out why building genuine business relationships is the wave of the future.</description> 
+        <generator>Feeder 2.0.8(1206) http://reinventedsoftware.com/feeder/</generator> 
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs> 
+        <language>en-us</language> 
+        <copyright>2009</copyright> 
+        <managingEditor>Alex@Chevtek.com (Alex Ford)</managingEditor> 
+        <webMaster>Alex@Chevtek.com (Alex Ford)</webMaster> 
+        <pubDate>Sun, 01 Nov 2009 12:00:00 -0700</pubDate> 
+        <lastBuildDate>Tue, 29 Dec 2009 12:00:00 -0700</lastBuildDate> 
+        <category>Business</category> 
+        <ttl>720</ttl> 
+        <image> 
+            <url>http://www.referralnetworx.com/images/rnxpeople.jpg</url> 
+            <title>KRNX - The Relationship Marketing Podcast</title> 
+            <link>http://ReferralNetworX.com</link> 
+            <width>138</width> 
+            <height>138</height> 
+        </image> 
+        <atom:link href="http://www.referralnetworx.com/krnx/rss.xml" rel="self" type="application/rss+xml"/> 
+        <itunes:author>Alex Ford, Walt Ford</itunes:author> 
+        <itunes:subtitle>It's all about relationships!</itunes:subtitle> 
+        <itunes:summary>ReferralNetworX.com's relationship marketing podcast. Learn how to generate referrals for your business and find out why building genuine business relationships is the wave of the future.</itunes:summary> 
+        <itunes:keywords>podcast, podcasting, podcaster, business, referral, referrals, referral marketing, relationship, relationship marketing, networking, marketing, referral network, referral networx, networx, relationship building, relationship builder, future business</itunes:keywords> 
+        <itunes:explicit>no</itunes:explicit> 
+        <itunes:image href="http://www.referralnetworx.com/images/rnxpeople.jpg"/> 
+        <itunes:owner> 
+            <itunes:name>Alex Ford, Walt Ford</itunes:name> 
+            <itunes:email>KRNX@ReferralNetworX.com</itunes:email> 
+        </itunes:owner> 
+        <itunes:block>no</itunes:block> 
+        <itunes:category text="Business"> 
+            <itunes:category text="Management &amp; Marketing"/> 
+        </itunes:category>
+
+	<item> 
+            <title>KRNX 16 - Live Event!</title> 
+            <link>http://www.referralnetworx.com/krnx/Ep16.mp3</link> 
+            <description><![CDATA[><p><img src="http://www.referralnetworx.com/images/rnxpeople.jpg" align=right hspace=20 vspace=20 border=0 /></p> 
+ 
+<p>Hosts: <a href="http://www.ReferralNetworx.com/Profile.aspx?member=Alex@ReferralNetworX.com">Alex Ford</a>, <a href="http://www.referralnetworx.com/Profile.aspx?member=walt@referralnetworx.com">Walt Ford</a></p> 
+<p><b>Running time:</b> 01:21:51</p>]]></description> 
+            <author>KRNX@ReferralNetworX.com (Referral NetworX)</author> 
+            <pubDate>Sun, 21 Feb 2010 12:00:00 -0700</pubDate> 
+            <category>Business</category> 
+            <enclosure url="http://www.ReferralNetworX.com/krnx/Ep16.mp3" length="78580736" type="audio/mpeg"/> 
+            <guid isPermaLink="false">http://www.referralnetworx.com/krnx/Ep16.mp3</guid> 
+            <itunes:author>Alex Ford, Walt Ford</itunes:author> 
+            <itunes:subtitle>Walt and Alex come to you from the first live recording of KRNX!</itunes:subtitle> 
+            <itunes:summary>Hosts: Alex Ford, Walt Ford.
+
+Come find out why KRNX is your number one source for relationship marketing education!</itunes:summary>
+            <itunes:explicit>no</itunes:explicit> 
+            <itunes:duration>01:21:51</itunes:duration> 
+        </item>
+
+	<item> 
+            <title>KRNX 15 - Be Happy!</title> 
+            <link>http://www.referralnetworx.com/krnx/Ep15.mp3</link> 
+            <description><![CDATA[><p><img src="http://www.referralnetworx.com/images/rnxpeople.jpg" align=right hspace=20 vspace=20 border=0 /></p> 
+ 
+<p>Hosts: <a href="http://www.ReferralNetworx.com/Profile.aspx?member=Alex@ReferralNetworX.com">Alex Ford</a>, <a href="http://www.referralnetworx.com/Profile.aspx?member=walt@referralnetworx.com">Walt Ford</a></p> 
+<p><b>Running time:</b> 00:47:16</p>]]></description> 
+            <author>KRNX@ReferralNetworX.com (Referral NetworX)</author> 
+            <pubDate>Sun, 14 Feb 2010 12:00:00 -0700</pubDate> 
+            <category>Business</category> 
+            <enclosure url="http://www.ReferralNetworX.com/krnx/Ep15.mp3" length="45390455" type="audio/mpeg"/> 
+            <guid isPermaLink="false">http://www.referralnetworx.com/krnx/Ep15.mp3</guid> 
+            <itunes:author>Alex Ford, Walt Ford</itunes:author> 
+            <itunes:subtitle>Walt and Alex talk about why it's so important to be happy people and give pats on the back, even when you don't get them yourself.</itunes:subtitle> 
+            <itunes:summary>Hosts: Alex Ford, Walt Ford.
+
+Come find out why KRNX is your number one source for relationship marketing education!</itunes:summary>
+            <itunes:explicit>no</itunes:explicit> 
+            <itunes:duration>00:47:16</itunes:duration> 
+        </item>
+
+	<item> 
+            <title>KRNX 14 - Creating Habits</title> 
+            <link>http://www.referralnetworx.com/krnx/Ep14.mp3</link> 
+            <description><![CDATA[><p><img src="http://www.referralnetworx.com/images/rnxpeople.jpg" align=right hspace=20 vspace=20 border=0 /></p> 
+ 
+<p>Hosts: <a href="http://www.ReferralNetworx.com/Profile.aspx?member=Alex@ReferralNetworX.com">Alex Ford</a>, <a href="http://www.referralnetworx.com/Profile.aspx?member=walt@referralnetworx.com">Walt Ford</a></p> 
+<p><b>Running time:</b> 00:53:37</p>]]></description> 
+            <author>KRNX@ReferralNetworX.com (Referral NetworX)</author> 
+            <pubDate>Sun, 7 Feb 2010 12:00:00 -0700</pubDate> 
+            <category>Business</category> 
+            <enclosure url="http://www.ReferralNetworX.com/krnx/Ep14.mp3" length="51484493" type="audio/mpeg"/> 
+            <guid isPermaLink="false">http://www.referralnetworx.com/krnx/Ep14.mp3</guid> 
+            <itunes:author>Alex Ford, Walt Ford</itunes:author> 
+            <itunes:subtitle>Creating habits will ensure your success.</itunes:subtitle> 
+            <itunes:summary>Hosts: Alex Ford, Walt Ford. 
+
+Come find out why KRNX is your number one source for relationship marketing education!</itunes:summary>
+            <itunes:explicit>no</itunes:explicit> 
+            <itunes:duration>00:53:37</itunes:duration> 
+        </item>
+
+	<item> 
+            <title>KRNX 13 - Take Action</title> 
+            <link>http://www.referralnetworx.com/krnx/Ep13.mp3</link> 
+            <description><![CDATA[><p><img src="http://www.referralnetworx.com/images/rnxpeople.jpg" align=right hspace=20 vspace=20 border=0 /></p> 
+ 
+<p>Hosts: <a href="http://www.ReferralNetworx.com/Profile.aspx?member=Alex@ReferralNetworX.com">Alex Ford</a>, <a href="http://www.referralnetworx.com/Profile.aspx?member=walt@referralnetworx.com">Walt Ford</a></p> 
+<p><b>Running time:</b> 00:48:47</p>]]></description> 
+            <author>KRNX@ReferralNetworX.com (Referral NetworX)</author> 
+            <pubDate>Sun, 24 Jan 2010 12:00:00 -0700</pubDate> 
+            <category>Business</category> 
+            <enclosure url="http://www.ReferralNetworX.com/krnx/Ep13.mp3" length="46839947" type="audio/mpeg"/> 
+            <guid isPermaLink="false">http://www.referralnetworx.com/krnx/Ep13.mp3</guid> 
+            <itunes:author>Alex Ford, Walt Ford</itunes:author> 
+            <itunes:subtitle>Take action and measure your success.</itunes:subtitle> 
+            <itunes:summary>Hosts: Alex Ford, Walt Ford. 
+
+Come find out why KRNX is your number one source for relationship marketing education!</itunes:summary>
+            <itunes:explicit>no</itunes:explicit> 
+            <itunes:duration>00:48:47</itunes:duration> 
+        </item>
+
+	<item> 
+            <title>KRNX 12 - Welcome Failure</title> 
+            <link>http://www.referralnetworx.com/krnx/Ep12.mp3</link> 
+            <description><![CDATA[><p><img src="http://www.referralnetworx.com/images/rnxpeople.jpg" align=right hspace=20 vspace=20 border=0 /></p> 
+ 
+<p>Hosts: <a href="http://www.ReferralNetworx.com/Profile.aspx?member=Alex@ReferralNetworX.com">Alex Ford</a>, <a href="http://www.referralnetworx.com/Profile.aspx?member=walt@referralnetworx.com">Walt Ford</a></p> 
+<p><b>Running time:</b> 00:46:18</p>]]></description> 
+            <author>KRNX@ReferralNetworX.com (Referral NetworX)</author> 
+            <pubDate>Sun, 17 Jan 2010 12:00:00 -0700</pubDate> 
+            <category>Business</category> 
+            <enclosure url="http://www.ReferralNetworX.com/krnx/Ep12.mp3" length="44455541" type="audio/mpeg"/> 
+            <guid isPermaLink="false">http://www.referralnetworx.com/krnx/Ep12.mp3</guid> 
+            <itunes:author>Alex Ford, Walt Ford</itunes:author> 
+            <itunes:subtitle>Welcome failure. It's the only way to succeed.</itunes:subtitle> 
+            <itunes:summary>Hosts: Alex Ford, Walt Ford. 
+
+Come find out why KRNX is your number one source for relationship marketing education!</itunes:summary>
+            <itunes:explicit>no</itunes:explicit> 
+            <itunes:duration>00:46:18</itunes:duration> 
+        </item>
+
+	<item> 
+            <title>KRNX 11 - What do you believe?</title> 
+            <link>http://www.referralnetworx.com/krnx/Ep11.mp3</link> 
+            <description><![CDATA[><p><img src="http://www.referralnetworx.com/images/rnxpeople.jpg" align=right hspace=20 vspace=20 border=0 /></p> 
+ 
+<p>Hosts: <a href="http://www.ReferralNetworx.com/Profile.aspx?member=Alex@ReferralNetworX.com">Alex Ford</a>, <a href="http://www.referralnetworx.com/Profile.aspx?member=walt@referralnetworx.com">Walt Ford</a></p> 
+<p><b>Running time:</b> 00:54:16</p>]]></description> 
+            <author>KRNX@ReferralNetworX.com (Referral NetworX)</author> 
+            <pubDate>Sun, 10 Jan 2010 12:00:00 -0700</pubDate> 
+            <category>Business</category> 
+            <enclosure url="http://www.ReferralNetworX.com/krnx/Ep11.mp3" length="52108325" type="audio/mpeg"/> 
+            <guid isPermaLink="false">http://www.referralnetworx.com/krnx/Ep11.mp3</guid> 
+            <itunes:author>Alex Ford, Walt Ford</itunes:author> 
+            <itunes:subtitle>"What other people think of you is none of your business."</itunes:subtitle> 
+            <itunes:summary>Hosts: Alex Ford, Walt Ford. 
+
+Come find out why KRNX is your number one source for relationship marketing education!</itunes:summary> 
+            <itunes:explicit>no</itunes:explicit> 
+            <itunes:duration>00:54:16</itunes:duration> 
+        </item>
+
+
+	<item> 
+            <title>KRNX 10 - Did you dance?</title> 
+            <link>http://www.referralnetworx.com/krnx/Ep10.mp3</link>
+            <description><![CDATA[><p><img src="http://www.referralnetworx.com/images/rnxpeople.jpg" align=right hspace=20 vspace=20 border=0 /></p> 
+ 
+<p>Hosts: <a href="http://www.ReferralNetworx.com/Profile.aspx?member=Alex@ReferralNetworX.com">Alex Ford</a>, <a href="http://www.referralnetworx.com/Profile.aspx?member=walt@referralnetworx.com">Walt Ford</a></p> 
+<p><b>Running time:</b> 00:50:46</p>]]></description> 
+            <author>KRNX@ReferralNetworX.com (Referral NetworX)</author> 
+            <pubDate>Sun, 3 Jan 2010 12:00:00 -0700</pubDate> 
+            <category>Business</category> 
+            <enclosure url="http://www.ReferralNetworX.com/krnx/Ep10.mp3" length="48743969" type="audio/mpeg"/> 
+            <guid isPermaLink="false">http://www.referralnetworx.com/krnx/Ep10.mp3</guid> 
+            <itunes:author>Alex Ford, Walt Ford</itunes:author> 
+            <itunes:subtitle>If you believe you're a loser, then you're a loser.</itunes:subtitle> 
+            <itunes:summary>Hosts: Alex Ford, Walt Ford. 
+
+Come find out why KRNX is your number one source for relationship marketing education!</itunes:summary> 
+            <itunes:explicit>no</itunes:explicit> 
+            <itunes:duration>00:50:46</itunes:duration> 
+        </item>
+
+	<item> 
+            <title>KRNX 09 - Muster Some Gratitude</title> 
+            <link>http://www.referralnetworx.com/krnx/Ep09.mp3</link> 
+            <description><![CDATA[><p><img src="http://www.referralnetworx.com/images/rnxpeople.jpg" align=right hspace=20 vspace=20 border=0 /></p> 
+ 
+<p>Hosts: <a href="http://www.ReferralNetworx.com/Profile.aspx?member=Alex@ReferralNetworX.com">Alex Ford</a>, <a href="http://www.referralnetworx.com/Profile.aspx?member=walt@referralnetworx.com">Walt Ford</a></p> 
+<p><b>Running time:</b> 00:46:28</p>]]></description> 
+            <author>KRNX@ReferralNetworX.com (Referral NetworX)</author> 
+            <pubDate>Sun, 27 Dec 2009 12:00:00 -0700</pubDate> 
+            <category>Business</category> 
+            <enclosure url="http://www.ReferralNetworX.com/krnx/Ep09.mp3" length="44626526" type="audio/mpeg"/> 
+            <guid isPermaLink="false">http://www.referralnetworx.com/krnx/Ep09.mp3</guid> 
+            <itunes:author>Alex Ford, Walt Ford</itunes:author> 
+            <itunes:subtitle>Find out why trusting someone you don't even know could help grow your business.</itunes:subtitle> 
+            <itunes:summary>Hosts: Alex Ford, Walt Ford. 
+
+Come find out why KRNX is your number one source for relationship marketing education!</itunes:summary> 
+            <itunes:explicit>no</itunes:explicit> 
+            <itunes:duration>00:46:28</itunes:duration> 
+        </item>
+
+	<item> 
+            <title>KRNX 08 - Stop Whining!</title> 
+            <link>http://www.referralnetworx.com/krnx/Ep08.mp3</link> 
+            <description><![CDATA[><p><img src="http://www.referralnetworx.com/images/rnxpeople.jpg" align=right hspace=20 vspace=20 border=0 /></p> 
+ 
+<p>Hosts: <a href="http://www.ReferralNetworx.com/Profile.aspx?member=Alex@ReferralNetworX.com">Alex Ford</a>, <a href="http://www.referralnetworx.com/Profile.aspx?member=walt@referralnetworx.com">Walt Ford</a></p> 
+<p><b>Running time:</b> 00:41:11</p>]]></description> 
+            <author>KRNX@ReferralNetworX.com (Referral NetworX)</author> 
+            <pubDate>Sun, 20 Dec 2009 12:00:00 -0700</pubDate> 
+            <category>Business</category> 
+            <enclosure url="http://www.ReferralNetworX.com/krnx/Ep08.mp3" length="474477888" type="audio/mpeg"/> 
+            <guid isPermaLink="false">http://www.referralnetworx.com/krnx/Ep08.mp3</guid> 
+            <itunes:author>Alex Ford, Walt Ford</itunes:author> 
+            <itunes:subtitle>Find out why trusting someone you don't even know could help grow your business.</itunes:subtitle> 
+            <itunes:summary>Hosts: Alex Ford, Walt Ford. 
+
+Come find out why KRNX is your number one source for relationship marketing education!</itunes:summary> 
+            <itunes:explicit>no</itunes:explicit> 
+            <itunes:duration>00:41:11</itunes:duration> 
+        </item>
+
+	<item> 
+            <title>KRNX 07 - Value for Value</title> 
+            <link>http://www.referralnetworx.com/krnx/Ep07.mp3</link> 
+            <description><![CDATA[><p><img src="http://www.referralnetworx.com/images/rnxpeople.jpg" align=right hspace=20 vspace=20 border=0 /></p> 
+ 
+<p>Hosts: <a href="http://www.ReferralNetworx.com/Profile.aspx?member=Alex@ReferralNetworX.com">Alex Ford</a>, <a href="http://www.referralnetworx.com/Profile.aspx?member=walt@referralnetworx.com">Walt Ford</a></p> 
+<p><b>Running time:</b> 00:46:06</p>]]></description> 
+            <author>KRNX@ReferralNetworX.com (Referral NetworX)</author> 
+            <pubDate>Sun, 13 Dec 2009 12:00:00 -0700</pubDate> 
+            <category>Business</category> 
+            <enclosure url="http://www.ReferralNetworX.com/krnx/Ep07.mp3" length="44264819" type="audio/mpeg"/> 
+            <guid isPermaLink="false">http://www.referralnetworx.com/krnx/Ep07.mp3</guid> 
+            <itunes:author>Alex Ford, Walt Ford</itunes:author> 
+            <itunes:subtitle>Find out why trusting someone you don't even know could help grow your business.</itunes:subtitle> 
+            <itunes:summary>Hosts: Alex Ford, Walt Ford. 
+
+Come find out why KRNX is your number one source for relationship marketing education!</itunes:summary> 
+            <itunes:explicit>no</itunes:explicit> 
+            <itunes:duration>00:46:06</itunes:duration> 
+        </item>
+
+	<item> 
+            <title>KRNX 06 - Trust</title> 
+            <link>http://www.referralnetworx.com/krnx/Ep06.mp3</link> 
+            <description><![CDATA[><p><img src="http://www.referralnetworx.com/images/rnxpeople.jpg" align=right hspace=20 vspace=20 border=0 /></p> 
+ 
+<p>Hosts: <a href="http://www.ReferralNetworx.com/Profile.aspx?member=Alex@ReferralNetworX.com">Alex Ford</a>, <a href="http://www.referralnetworx.com/Profile.aspx?member=walt@referralnetworx.com">Walt Ford</a></p> 
+<p><b>Running time:</b> 00:33:32</p>]]></description> 
+            <author>KRNX@ReferralNetworX.com (Referral NetworX)</author> 
+            <pubDate>Sun, 06 Dec 2009 12:00:00 -0700</pubDate> 
+            <category>Business</category> 
+            <enclosure url="http://www.ReferralNetworX.com/krnx/Ep06.mp3" length="32211170" type="audio/mpeg"/> 
+            <guid isPermaLink="false">http://www.referralnetworx.com/krnx/Ep06.mp3</guid> 
+            <itunes:author>Alex Ford, Walt Ford</itunes:author> 
+            <itunes:subtitle>Find out why trusting someone you don't even know could help grow your business.</itunes:subtitle> 
+            <itunes:summary>Hosts: Alex Ford, Walt Ford. 
+
+Come find out why KRNX is your number one source for relationship marketing education!</itunes:summary> 
+            <itunes:explicit>no</itunes:explicit> 
+            <itunes:duration>00:33:32</itunes:duration> 
+        </item>
+
+	<item> 
+            <title>KRNX 05 - Holiday Networking</title> 
+            <link>http://www.referralnetworx.com/krnx/Ep05.mp3</link> 
+            <description><![CDATA[><p><img src="http://www.referralnetworx.com/images/rnxpeople.jpg" align=right hspace=20 vspace=20 border=0 /></p> 
+ 
+<p>Hosts: <a href="http://www.ReferralNetworx.com/Profile.aspx?member=Alex@ReferralNetworX.com">Alex Ford</a>, <a href="http://www.referralnetworx.com/Profile.aspx?member=walt@referralnetworx.com">Walt Ford</a></p> 
+<p><b>Running time:</b> 00:53:16</p>]]></description> 
+            <author>KRNX@ReferralNetworX.com (Referral NetworX)</author> 
+            <pubDate>Sun, 29 Nov 2009 12:00:00 -0700</pubDate> 
+            <category>Business</category> 
+            <enclosure url="http://www.ReferralNetworX.com/krnx/Ep05.mp3" length="51146306" type="audio/mpeg"/> 
+            <guid isPermaLink="false">http://www.referralnetworx.com/krnx/Ep05.mp3</guid> 
+            <itunes:author>Alex Ford, Walt Ford</itunes:author> 
+            <itunes:subtitle>Learn why the holidays can be the best time to build valuable and genuine relationships that will help you grow your business.</itunes:subtitle> 
+            <itunes:summary>Hosts: Alex Ford, Walt Ford. 
+
+Come find out why KRNX is your number one source for relationship marketing education!</itunes:summary> 
+            <itunes:explicit>no</itunes:explicit> 
+            <itunes:duration>00:53:16</itunes:duration> 
+        </item>
+
+	<item> 
+            <title>KRNX 04 - Authenticity</title> 
+            <link>http://www.referralnetworx.com/krnx/Ep04.mp3</link> 
+            <description><![CDATA[><p><img src="http://www.referralnetworx.com/images/rnxpeople.jpg" align=right hspace=20 vspace=20 border=0 /></p> 
+ 
+<p>Hosts: <a href="http://www.ReferralNetworx.com/Profile.aspx?member=Alex@ReferralNetworX.com">Alex Ford</a>, <a href="http://www.referralnetworx.com/Profile.aspx?member=walt@referralnetworx.com">Walt Ford</a></p> 
+<p><b>Running time:</b> 00:45:07</p>]]></description> 
+            <author>KRNX@ReferralNetworX.com (Referral NetworX)</author> 
+            <pubDate>Sun, 22 Nov 2009 12:00:00 -0700</pubDate> 
+            <category>Business</category> 
+            <enclosure url="http://www.ReferralNetworX.com/krnx/Ep04.mp3" length="43331726" type="audio/mpeg"/> 
+            <guid isPermaLink="false">http://www.referralnetworx.com/krnx/Ep04.mp3</guid> 
+            <itunes:author>Alex Ford, Walt Ford</itunes:author> 
+            <itunes:subtitle>Walt and Alex discuss being your authentic self and why it will help build your business.</itunes:subtitle> 
+            <itunes:summary>Hosts: Alex Ford, Walt Ford. 
+
+Come find out why KRNX is your number one source for relationship marketing education!</itunes:summary> 
+            <itunes:explicit>no</itunes:explicit> 
+            <itunes:duration>00:45:07</itunes:duration> 
+        </item> 
+
+	<item> 
+            <title>KRNX 03 - Relationship Marketing</title> 
+            <link>http://www.referralnetworx.com/krnx/Ep03.mp3</link> 
+            <description><![CDATA[><p><img src="http://www.referralnetworx.com/images/rnxpeople.jpg" align=right hspace=20 vspace=20 border=0 /></p> 
+ 
+<p>Hosts: <a href="http://www.ReferralNetworx.com/Profile.aspx?member=Alex@ReferralNetworX.com">Alex Ford</a>, <a href="http://www.referralnetworx.com/Profile.aspx?member=walt@referralnetworx.com">Walt Ford</a></p> 
+<p><b>Running time:</b> 00:40:29</p>]]></description> 
+            <author>KRNX@ReferralNetworX.com (Referral NetworX)</author> 
+            <pubDate>Sun, 15 Nov 2009 12:00:00 -0700</pubDate> 
+            <category>Business</category> 
+            <enclosure url="http://www.ReferralNetworX.com/krnx/Ep03.mp3" length="38869826" type="audio/mpeg"/> 
+            <guid isPermaLink="false">http://www.referralnetworx.com/krnx/Ep03.mp3</guid> 
+            <itunes:author>Alex Ford, Walt Ford</itunes:author> 
+            <itunes:subtitle>We discuss relationship marketing. What does it mean?</itunes:subtitle> 
+            <itunes:summary>Hosts: Alex Ford, Walt Ford. 
+
+Come find out why KRNX is your number one source for relationship marketing education!</itunes:summary> 
+            <itunes:explicit>no</itunes:explicit> 
+            <itunes:duration>00:40:29</itunes:duration> 
+        </item> 
+
+	<item> 
+            <title>KRNX 02 - Why relationships are important</title> 
+            <link>http://www.referralnetworx.com/krnx/Ep02.mp3</link> 
+            <description><![CDATA[><p><img src="http://www.referralnetworx.com/images/rnxpeople.jpg" align=right hspace=20 vspace=20 border=0 /></p> 
+ 
+<p>Hosts: <a href="http://www.ReferralNetworx.com/Profile.aspx?member=Alex@ReferralNetworX.com">Alex Ford</a>, <a href="http://www.referralnetworx.com/Profile.aspx?member=walt@referralnetworx.com">Walt Ford</a></p> 
+<p><b>Running time:</b> 00:42:23</p>]]></description> 
+            <author>KRNX@ReferralNetworX.com (Referral NetworX)</author> 
+            <pubDate>Sun, 08 Nov 2009 12:00:00 -0700</pubDate> 
+            <category>Business</category> 
+            <enclosure url="http://www.ReferralNetworX.com/krnx/Ep02.mp3" length="40699052" type="audio/mpeg"/> 
+            <guid isPermaLink="false">http://www.referralnetworx.com/krnx/Ep02.mp3</guid> 
+            <itunes:author>Alex Ford, Walt Ford</itunes:author> 
+            <itunes:subtitle>We discuss RNX's philosophy about why relationships are the most important part of modern business.</itunes:subtitle> 
+            <itunes:summary>Hosts: Alex Ford, Walt Ford. 
+
+Come find out why KRNX is your number one source for relationship marketing education!</itunes:summary> 
+            <itunes:explicit>no</itunes:explicit> 
+            <itunes:duration>00:42:23</itunes:duration> 
+        </item> 
+
+        <item> 
+            <title>KRNX 01 - What is Referral NetworX?</title> 
+            <link>http://www.referralnetworx.com/krnx/Ep01.mp3</link> 
+            <description><![CDATA[><p><img src="http://www.referralnetworx.com/images/rnxpeople.jpg" align=right hspace=20 vspace=20 border=0 /></p> 
+ 
+<p>Hosts: <a href="http://www.ReferralNetworx.com/Profile.aspx?member=Alex@ReferralNetworX.com">Alex Ford</a>, <a href="http://www.referralnetworx.com/Profile.aspx?member=walt@referralnetworx.com">Walt Ford</a></p> 
+<p><b>Running time:</b> 00:34:25</p>]]></description> 
+            <author>KRNX@ReferralNetworX.com (Referral NetworX)</author> 
+            <pubDate>Sun, 01 Nov 2009 12:00:00 -0700</pubDate> 
+            <category>Business</category> 
+            <enclosure url="http://www.ReferralNetworX.com/krnx/Ep01.mp3" length="33051240" type="audio/mpeg"/> 
+            <guid isPermaLink="false">http://www.referralnetworx.com/krnx/Ep01.mp3</guid> 
+            <itunes:author>Alex Ford, Walt Ford</itunes:author> 
+            <itunes:subtitle>Welcome to the first episode of KRNX! We talk about Referral NetworX and what we are all about.</itunes:subtitle> 
+            <itunes:summary>Hosts: Alex Ford, Walt Ford. 
+
+Come find out why KRNX is your number one source for relationship marketing education!</itunes:summary> 
+            <itunes:explicit>no</itunes:explicit> 
+            <itunes:duration>00:34:25</itunes:duration> 
+        </item> 
+    </channel> 
+</rss>

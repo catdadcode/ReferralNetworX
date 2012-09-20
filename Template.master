@@ -1,0 +1,385 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Template.master.cs" Inherits="Template" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <link rel="Stylesheet" type="text/css" href="StyleSheet.css" />
+    <meta name="verify-v1" content="8sY2Hm83p+LIBNn49V3Fy7eAWjp3v4WGoBZWlIfvT+o=" />
+    <meta name="description" content="A community of business-minded people looking to build valuable relationships and broaden their social networks." />
+    <meta name="keywords" content="Referral, network, networx, referral networx, business, word of mouth, advertising, motivation, utah, ceo, small business, entrepreneur, business owner, rnx, daily motivator, enlightenment, enthusiasm, empowerment, positive, thinking, confidence, morning coffee, daily jolt" />
+
+    <script type="text/javascript"><!--
+        google_ad_client = "pub-1042641276925105";
+        /* 250x250, created 3/14/09 */
+        google_ad_slot = "5276991546";
+        google_ad_width = 250;
+        google_ad_height = 250;
+//-->
+    </script>
+
+    <%--<script type="text/JavaScript" src="curvycorners-2.0.4/curvycorners.js"></script>
+
+    <script type="text/JavaScript">
+        window.onload = function() {
+            var contentsettings = {
+                tl: { radius: 0 },
+                tr: { radius: 0 },
+                bl: { radius: 29 },
+                br: { radius: 29 },
+                antiAlias: true
+            }
+            var titlesettings = {
+                tl: { radius: 29 },
+                tr: { radius: 29 },
+                bl: { radius: 5 },
+                br: { radius: 5 },
+                antiAlias: true
+            }
+            var footersettings = {
+                tl: { radius: 5 },
+                tr: { radius: 5 },
+                bl: { radius: 29 },
+                br: { radius: 29 },
+                antiAlias: true
+            }
+            var titlesettings2 = {
+                tl: { radius: 29 },
+                tr: { radius: 29 },
+                bl: { radius: 0 },
+                br: { radius: 0 },
+                antiAlias: true
+            }
+
+            curvyCorners(contentsettings, ".contentpanel");
+            curvyCorners(contentsettings, ".formpanel");
+            curvyCorners(titlesettings2, ".contenttitle");
+            curvyCorners(titlesettings, ".paneltitle");
+            curvyCorners(titlesettings2, ".formtitle");
+            curvyCorners(footersettings, ".panelfooter");
+        }
+
+    </script>
+--%>
+    <div id="dynamicstyle" runat="server">
+    </div>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <asp:ScriptManager ID="ScriptManager1" runat="server">
+    </asp:ScriptManager>
+    <div id="frame">
+        <div id="banner">
+            <table cellspacing="0" cellpadding="0">
+                <tr>
+                    <td style="width: 25px; height: 100px;">
+                        <img src="images/cornercutter3.gif" />
+                    </td>
+                    <td style="padding-right: 25px; padding-left: 5px; background-image: url(images/backbar.jpg);
+                        background-repeat: repeat-x; vertical-align: middle;">
+                        <a href="Default.aspx">
+                            <img style="border-width: 0px;" src="images/banner.jpg" /></a>
+                    </td>
+                    <td style="background-image: url(images/backbar.jpg); background-repeat: repeat-x;
+                        vertical-align: middle;">
+                        <a href="Default.aspx">
+                            <img style="height: 100px; border-width: 0px;" src="images/networking2.jpg" /></a>
+                    </td>
+                    <td style="width: 100%; background-image: url(images/backbar.jpg); background-repeat: repeat-x;">
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    </td>
+                    <td style="width: 100px; height: 100px;">
+                        <img src="images/pointright2.gif" />
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div id="main">
+            <table style="width: 100%; border-collapse: collapse; border-spacing: 0px;" cellspacing="0"
+                cellpadding="0">
+                <tr>
+                    <td id="left">
+                        <div id="memberpanel" runat="server">
+                            <div style="font-size: 17px;" class="paneltitle">
+                                Welcome, <span id="membername" runat="server">Guest!</span>
+                            </div>
+                            <div class="panel" style="background-color: #ddffdd; background-image: url(images/gradientmemberpanelcontent.jpg);
+                                background-repeat: repeat-x;">
+                                <asp:LinkButton class="leftnav" ID="lbtnLogout" runat="server" OnClick="lbtnLogout_Click"
+                                    CausesValidation="False">Logout</asp:LinkButton>
+                                <hr />
+                                <a class="leftnav" href="Profile.aspx">View My Profile</a>
+                                <hr />
+                                <a class="leftnav" href="EditProfile.aspx">Edit My Profile</a>
+                                <hr />
+                                <a class="leftnav" href="ChangePassword.aspx">Change My Password</a>
+                                <hr />
+                                <a class="leftnav" href="ChangeEmail.aspx">Change My Email</a>
+                                <div id="divPostBlog" style="padding: 3px; margin-top: 5px; border: solid 1px #333333;
+                                    background-color: #ffdddd;" runat="server">
+                                    <a class="leftnav" href="ManageBlogs.aspx">Post Blog</a>
+                                </div>
+                                <div id="divPostArticle" style="padding: 3px; margin-top: 5px; border: solid 1px #333333;
+                                    background-color: #ffdddd;" runat="server">
+                                    <a class="leftnav" href="ManageArticles.aspx">Manage My Articles</a>
+                                </div>
+                            </div>
+                            <div class="panelfooter">
+                            </div>
+                        </div>
+                        <div id="MemberToolsPanel" runat="server">
+                            <div class="paneltitle">
+                                My Tools</div>
+                            <div class="panel" style="background-color: #ffffdd; background-image: url(images/shadowgradient.png);
+                                background-repeat: repeat-x;">
+                                <a class="leftnav" style="font-weight: bold;" href="MissionStatement.aspx">Mission Statement</a>
+                                <hr />
+                                <a class="leftnav" style="font-weight: bold;" href="AppreciationJournal.aspx">I Appreciate...</a>
+                                <hr />
+                                <a class="leftnav" style="font-weight: bold;" href="SuccessMeter.aspx">Success Meter</a>
+                                <hr />
+                                <a class="leftnav" style="font-weight: bold;" href="TomorrowPlanner.aspx">Tomorrow Planner</a>
+                            </div>
+                            <div class="panelfooter">
+                            </div>
+                        </div>
+                        <div id="adminpanel" runat="server">
+                            <div class="paneltitle" style="background-color: #FF3333; background-image: url(images/gradientadmintitle.jpg);
+                                background-repeat: repeat-x;">
+                                Admin Controls</div>
+                            <div class="panel" style="background-color: #ffdddd; background-image: url(images/gradientadmincontent.jpg);
+                                background-repeat: repeat-x;">
+                                <a class="leftnav" href="Newsletter.aspx">Edit/Send Newsletter</a>
+                                <hr />
+                                <a class="leftnav" href="ManageDailyMotivator.aspx">Manage Daily Motivator</a>
+                                <hr />
+                                <a class="leftnav" href="ManageArticles.aspx">Manage Articles</a>
+                                <hr />
+                                <a class="leftnav" href="ManageArticleCategories.aspx">Manage Article Categories</a>
+                                <hr />
+                                <a class="leftnav" href="ManageFAQ.aspx">Manage FAQ</a>
+                                <hr />
+                                <a class="leftnav" href="ManageMembers.aspx">Manage Members</a>
+                                <hr />
+                                <a class="leftnav" href="ManageGroups.aspx">Manage Physical Groups</a>
+                                <hr />
+                                <a class="leftnav" href="ManageNonMembers.aspx">Manage Non-members</a>
+                                <hr />
+                                <a class="leftnav" href="ManageBlogs.aspx">Manage Blogs</a>
+                                <hr />
+                                <a class="leftnav" href="ManagePodcasts.aspx">Manage Podcasts</a>
+                                <hr />
+                                <a class="leftnav" href="ManageForumBoards.aspx">Manage Forum Boards</a>
+                                <hr />
+                                <a class="leftnav" href="EditAboutUs.aspx">Edit About Us</a>
+                            </div>
+                            <div class="panelfooter" style="background-color: #FF3333; background-image: url(images/gradientadmintitle.jpg);
+                                background-repeat: repeat-x;">
+                            </div>
+                        </div>
+                        <div id="loginpanel" runat="server">
+                            <asp:Panel ID="Panel1" DefaultButton="lbtnLogin" runat="server">
+                                <div class="paneltitle">
+                                    Member Login
+                                </div>
+                                <div style="background-color: #ccddcc; text-align: left; background-image: url(images/gradientformcontent.jpg);
+                                    background-repeat: repeat-x;" class="panel">
+                                    Email:<br />
+                                    <asp:TextBox ID="tbxLoginEmail" BackColor="#FAFFBD" runat="server" AutoCompleteType="Email"></asp:TextBox>
+                                    <br />
+                                    Password:<br />
+                                    <asp:TextBox ID="tbxLoginPassword" BackColor="#FAFFBD" runat="server" TextMode="Password"></asp:TextBox>
+                                    <br />
+                                    <asp:CheckBox ID="cbxRememberMe" Text="Remember Me" runat="server" />
+                                    <br />
+                                    <div style="color: #ff0000;" id="failfield" runat="server">
+                                    </div>
+                                    <br />
+                                    <center>
+                                        <a style="text-decoration: none;" href="ForgotPassword.aspx">Forgot your password?</a></center>
+                                    <br />
+                                    <div style="text-align: right;">
+                                        <table style="width: 100%;">
+                                            <tr>
+                                                <td style="text-align: left;">
+                                                    <a class="leftnav" href="SignUp.aspx">
+                                                        <img style="width: 60px; border-width: 0px;" src="images/signup.gif" /></a>
+                                                </td>
+                                                <td style="text-align: right;">
+                                                    <asp:ImageButton class="leftnav" Width="60px" ImageUrl="images/login.gif" ImageAlign="Middle"
+                                                        ID="lbtnLogin" runat="server" OnClick="lbtnLogin_Click" CausesValidation="False" />
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </div>
+                                </div>
+                                <div class="panelfooter">
+                                </div>
+                            </asp:Panel>
+                        </div>
+                        <div id="directorypanel" runat="server">
+                            <div class="paneltitle">
+                                Directory</div>
+                            <div class="panel">
+                                <a class="leftnav" href="MemberDirectory.aspx">Members</a>
+                                <hr />
+                                <a class="leftnav" href="BusinessDirectory.aspx">Businesses</a>
+                                <hr />
+                                <a class="leftnav" href="FAQ.aspx">FAQ</a>
+                                <hr />
+                                <a class="leftnav" href="Events.aspx">Events Calendar</a>
+                                <hr />
+                                <a class="leftnav" href="AboutUs.aspx">About Us</a>
+                                <hr />
+                                <a class="leftnav" href="ContactUs.aspx">Contact Us</a>
+                                <hr />
+                                <a class="leftnav" href="Topics.aspx?board=12">Member Support</a>
+                                <hr />
+                                <a class="leftnav" href="Topics.aspx?board=13">Technical Support</a>
+                            </div>
+                            <div class="panelfooter">
+                            </div>
+                        </div>
+                        <div id="nonmemberdirectorypanel" runat="server">
+                            <div class="paneltitle">
+                                Directory</div>
+                            <div class="panel">
+                                <a class="leftnav" href="FAQ.aspx">Frequently Asked Questions</a>
+                                <hr />
+                                <a class="leftnav" href="Events.aspx">Events Calendar</a>
+                                <hr />
+                                <a class="leftnav" href="AboutUs.aspx">About Us</a>
+                                <hr />
+                                <a class="leftnav" href="ContactUs.aspx">Contact Us</a>
+                                <hr />
+                                <a class="leftnav" href="Blogs.aspx">RNX Blog</a>
+                            </div>
+                            <div class="panelfooter">
+                            </div>
+                        </div>
+                        <div id="archivespanel" runat="server">
+                            <div class="paneltitle">
+                                Archives</div>
+                            <div class="panel">
+                                <a class="leftnav" href="NewsletterArchive.aspx">Newsletters</a>
+                                <hr />
+                                <a class="leftnav" href="DailyMotivatorArchive.aspx">Daily Motivators</a>
+                                <hr />
+                                <a class="leftnav" href="PodcastArchive.aspx">Podcasts</a>
+                                <hr />
+                                <a class="leftnav" href="AppreciationArchive.aspx">Appreciation Journal</a>
+                                <hr />
+                                <a class="leftnav" href="SuccessJournal.aspx">Success Meter</a>
+                            </div>
+                            <div class="panelfooter">
+                            </div>
+                        </div>
+                    </td>
+                    <td>
+                        <div>
+                            <table style="width: 100%" cellspacing="0" cellpadding="0">
+                                <tr>
+                                    <td>
+                                        <img src="images/cornercutter.gif" />
+                                    </td>
+                                    <td id="navigation">
+                                        <table style="width: 100%">
+                                            <tr>
+                                                <td>
+                                                    <a class="navlink" href="Default.aspx">Home</a>
+                                                </td>
+                                                <td>
+                                                    <a class="navlink" href="Blogs.aspx">Blog</a>
+                                                </td>
+                                                <td>
+                                                    <a class="navlink" href="PodcastArchive.aspx">Podcast</a>
+                                                </td>
+                                                <td>
+                                                    <a class="navlink" href="Articles.aspx">Articles</a>
+                                                </td>
+                                                <td>
+                                                    <a class="navlink" href="Forums.aspx">Forums</a>
+                                                </td>
+                                                <td>
+                                                    <a class="navlink" href="Directory.aspx">Directory</a>
+                                                </td>
+                                                <td>
+                                                    <a class="navlink" href="Archives.aspx">Archives</a>
+                                                </td>
+                                                <td>
+                                                    <a class="navlink" href="FAQ.aspx">FAQ</a>
+                                                </td>
+                                                <td>
+                                                    <a class="navlink" href="Events.aspx">Events</a>
+                                                </td>
+                                                <td>
+                                                    <a class="navlink" href="ContactUs.aspx">Contact&nbsp;Us</a>
+                                                </td>
+                                                <td>
+                                                    <a class="navlink" href="AboutUs.aspx">About&nbsp;Us</a>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                    <td>
+                                        <img src="images/navright.gif" />
+                                    </td>
+                                </tr>
+                            </table>
+                        </div>
+                        <div>
+                            <table style="width: 100%;" cellpadding="0" cellspacing="0">
+                                <tr>
+                                    <td id="maincontent">
+                                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                                        </asp:ContentPlaceHolder>
+                                    </td>
+                                    <td id="right">
+                                        <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+                                        </asp:ContentPlaceHolder>
+                                    </td>
+                                    <td style="max-width: 50px; min-width: 50px; width: 50px;">
+                                        <img src="images/emptyright.gif" />
+                                    </td>
+                                </tr>
+                            </table>
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <%--<div style="background-color: #333333; padding-top: 25px;">
+                            <center>
+                                <a href="http://www.chevtek.com">
+                                    <img style="width: 150px; background-color: #99dd99; border: solid 5px #ffffff; padding: 5px;"
+                                        src="images/createdby.png" /></a>
+                            </center>
+                        </div>--%>
+                        <img src="images/pointdown.gif" />
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div id="footer">
+            <div style="text-align: center; font-size: 12px; padding: 3px; width: 300px; background-color: #ffffff;
+                border: solid 1px #000000;">
+                <a href="PrivacyPolicy.aspx">Privacy Policy</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="UserAgreement.aspx">User Agreement</a></div>
+        </div>
+    </div>
+    </form>
+    <div id="analytics" runat="server">
+
+        <script type="text/javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script>
+
+        <script type="text/javascript">
+            try {
+                var pageTracker = _gat._getTracker("UA-7292713-4");
+                pageTracker._trackPageview();
+            } catch (err) { }</script>
+
+    </div>
+</body>
+</html>
